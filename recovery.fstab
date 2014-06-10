@@ -1,4 +1,3 @@
-/kernel              mtd          kernel
 /boot                mtd          boot
 /recovery            mtd          recovery
 /cache               ext4         /dev/block/mtd/by-name/cache
